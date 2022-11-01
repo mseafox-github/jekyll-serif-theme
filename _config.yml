@@ -4,11 +4,11 @@ title: 'Jekyll Serif'
 
 logo:
   mobile: "images/logo/logo-mobile.png"
-  mobile_height: "203px"
-  mobile_width: "43px"
+  mobile_height: "32px"
+  mobile_width: "32px"
   desktop: "images/logo/logo.png"
-  desktop_height: "566px"
-  desktop_width: "42px"
+  desktop_height: "120px"
+  desktop_width: "32px"
 
 home: 
   limit_services: 6
