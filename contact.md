@@ -4,7 +4,7 @@ layout: contact
 description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+"Patience, perspective, integrity, a sense of humor and the ability to analyze data with context are the most important qualities of a realtor. Residential real estate transactions can be stressful for many reasons and one of a realtor's most important roles is to listen to what people need and keep things calm."
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
@@ -13,4 +13,4 @@ Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de 
 | Thursday  | 8:30am - 5:00pm |
 | Friday    | 8:30am - 5:00pm |
 | Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+| Sunday    | Closed          |
