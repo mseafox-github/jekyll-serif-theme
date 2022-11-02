@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: The Real Estate Agnostic Investing Team.
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: REAITeam is a professional, full service real estate solutions team that buys and sells properties throughout Texas. We specialize in buying distressed homes at a significant discount, and renovate and resell them to retail home buyers and landlords.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# The Real Estate Agnostic Investing Team.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+REAITeam is a professional, full service real estate solutions team that buys and sells properties throughout Texas. We specialize in buying distressed homes at a significant discount, and renovate and resell them to retail home buyers and landlords.
