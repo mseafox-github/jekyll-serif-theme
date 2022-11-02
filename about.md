@@ -5,8 +5,9 @@ description: About
 bodyClass: page-about
 ---
 
-REAITeam is a professional, full service real estate solutions firm that buys and sells properties throughout [Your location here] We specialize in buying distressed homes at a significant discount, and renovate and resell them to retail home buyers and landlords. 
-Founded in 2019 by Eddie Min & Tina Wu, REAITeam is excited to be part of the area’s renaissance and we aspire to continue contributing to the economic rejuvenation of Houston, TX and its neighborhoods.
+REAITeam is a professional, full service real estate solutions firm that buys and sells properties throughout Texas. We specialize in buying distressed homes at a significant discount, and renovate and resell them to retail home buyers and landlords.
+
+Founded in 2019 by Eddie Min & Tina Wu, REAITeam is excited to be part of the area’s renaissance and we aspire to continue contributing to the economic rejuvenation of Texas and its neighborhoods.
 
 
 
