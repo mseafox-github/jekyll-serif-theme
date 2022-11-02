@@ -30,7 +30,7 @@ When a passion for real estate is combined with talented individuals who have an
 
 Our core business lies within our systems, education and knowledge of the real estate industry. We did not just buy a CD off the Internet and become a real estate investor overnight. We have spent thousands of dollars to learn how to be successful in this business and do it the right way the first time. Through our affiliation, we are connected with a national network of investors that provide continual support and weekly trainings on changes throughout our industry. This process has allowed us to circumvent many pitfalls most novice investors would make. Learning the hard way is not a phrase in our vocabulary, and we certainly would not ask anyone to invest with us if we weren’t confident enough to invest ourselves!
 
-## We Follow A Strict Due Diligence Process
+### We Follow A Strict Due Diligence Process
 
 We have a systematic and disciplined approach when purchasing investment properties, putting each potential investment through a strict due diligence process. This rigorous set of criteria includes, but is not limited to, the following:
 - Comparable property analysis and examination by an certified, independent appraiser
@@ -40,7 +40,7 @@ We have a systematic and disciplined approach when purchasing investment propert
 - Public transportation and schools
 - Overall condition of the property, including heating and air, plumbing, electrical, roof and structural condition
 
-### What's Our Competitive Advantage?
+## What's Our Competitive Advantage?
 
 Most homeowners have no idea what options are available to them beyond listing a house with a real estate agent or just trying to sell the house on their own, and hope for the best. We provide homeowners with a unique alternative to listing their house on their own or with a real estate agent. Our “out of the box” creative approach to real estate investing is a cut above the rest.
 
@@ -60,7 +60,7 @@ Our renovation process is also down to a science with handpicked and proven cons
 - We pay wholesale prices to all contractors and typically get bulk discounts on all materials
 - We find our own buyers quickly, allowing us to secure a strong sales price and save on sales commissions  
 
-### Investment Buying Criteria
+## Investment Buying Criteria
 
 Our goal is to purchase distressed homes in stable areas where there is still strong buying demand. Part of our grand vision is to improve the overall quality of living in both urban and suburban neighborhoods. In addition to improving overall quality of life, we are committed to increasing the value of real estate in our community. We are able to target distressed properties and breathe new life back into them with highly-skilled renovations and improvements. By doing so, we are able to create beautiful homes and encourage home ownership.
 
@@ -70,7 +70,7 @@ Not every opportunity is a “good deal”, and we have built our company on a s
 
 ---
 
-## Types of Properties We Target
+### Types of Properties We Target
 
 - Distressed properties in significant need of repairs
 - Properties where sellers need to sell quickly
