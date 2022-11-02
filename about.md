@@ -20,7 +20,13 @@ Our overall investment strategy and specialty is to purchase distressed properti
 
 At REAITeam, we pride ourselves on having a strong foundation of real estate knowledge and training. Our focus is on providing SOLUTIONS for homeowners and finding VALUE for our buyers and investors by locating ugly, vacant homes that are eye sores and we put them back into use after renovation.
 
-In addition, we re-develop a large number of single family and multi-family properties throughout the state with the intention of revitalizing communities and encouraging home ownership. Our mission is to rejuvenate neighborhoods and increase the standard of living by improving the overall quality of housing for the residents. 
+In addition, we re-develop a large number of single family and multi-family properties throughout the state with the intention of revitalizing communities and encouraging home ownership. Our mission is to rejuvenate neighborhoods and increase the standard of living by improving the overall quality of housing for the residents.
+
+> **Important Facts About REAITeam:**
+- Leading full service real estate solutions company in Harris County, specialized in buying and selling property.
+- We provide solutions for homeowners and value for investors and buyers by locating and renovating distressed properties.
+- Our goal is to provide the absolute highest level of service to our clients.
+
 
 ## Our Mission
 
