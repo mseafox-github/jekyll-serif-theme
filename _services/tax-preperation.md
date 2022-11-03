@@ -1,87 +1,45 @@
 ---
-title: "Tax Preperation"
+title: "Seller's Agent"
 date: 2019-04-18T12:33:46+10:00
 weight: 6
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+**SELLER** looking to sell property and letting someone else do all the work from A to Z. A licensed professional who represents your interests and becomes a fiduciary to you, the seller, in all aspects of the transaction.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+### How can we help?
 
-# Objectives
+> What Does A Real Estate Agent Do For A Seller?
+- Homeowners looking to sell their homes turn to listing agents. Listing agents provide clients with an unbiased valuation of their home and help set a listing price. Real estate agents are in tune with the market, so they also make suggestions for home updates that will lead to a successful home sale.
+- Listing agents also handle marketing a home listing. This includes entering the home into the local multiple listing service (MLS) database. Marketing is also done through networking with other real estate agents, and by creating advertisements and setting up open houses, among other methods.
+- It’s vital for listing agents to vet buyers, too. Not everyone is a serious buyer. Listing agents often check on a potential buyer’s finances before arranging a showing or accepting an offer. Listing agents know the right questions to ask to find out if a prospective home buyer can afford to buy the home or not.
+- Listing agents also negotiate various aspects of a home sale on behalf of their client. They may negotiate the price of the home or smaller expenses like closing costs, home warranties and any fees. There are legal actions that occur during the process of selling a home that fall on a real estate agent as well. Their job includes preparing, submitting and filing any documents, like contracts and agreements.
 
-Financial accounting and financial reporting are often used as synonyms.
+### How does this work?
+Real estate agents are licensed professionals who organize real estate transactions between buyers and sellers. Agents who represent sellers are also called listing agents. Buyer’s agents are exactly what they sound like – they’re real estate agents who represent buyers.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+You may also hear real estate agents referred to as REALTORS®. Real estate agents and REALTORS® perform the same essential functions, but REALTORS® are agents or brokers who are also members of the National Association of REALTORS® (NAR).
 
-## Relevance
+Real estate agents can be both listing agents and buyer’s agents, but typically not for the same real estate transaction. Real estate agents walk their clients through the entire home buying or selling process, providing valuable knowledge and information at each step.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+Real estate agents are typically compensated by commission, which is a percentage of a property’s purchase price, otherwise known as REALTOR® fees.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+> Important Facts:
+- Seller's agent will advise you on the listing price.
+- Walk the client through any necessary paperwork.
+- Communicate with the client and other parties involved.
+- Provide information on the home inspection process.
+- Continue to support the client through the closing process.
+- One thing to keep in mind is that all real estate agents should be:
+  - Familiar with the local housing market, including pricing.
+  - Knowledgable on local and state real estate laws.
+  - Understanding of their clients' needs.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+### What Role Do Agents Play At Closing?
+Real estate agents also play a role during the closing period. Throughout the process, agents communicate between their client and the other party. Communication continues the entire time their clients are closing on a house. They may suggest a final walkthrough of the home close to the closing date. This allows you to check for any damage that has occurred since the initial contract.
 
-## Faithful Representation
+Real estate agents also look over every document, ensuring accuracy and that all terms and conditions have been met before the home deed is transferred. Mistakes happen, and it’s an agent’s job to find and correct them before everything is finalized.
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+Agents also represent you at any meetings or contract signings. Several different parties can be involved in the closing process, depending on which state you’re in, including real estate attorneys, a title or escrow agent, a mortgage lender, sellers and buyers, and real estate agents. Agents represent their clients’ best interest not only until the sale is final, but also work to maintain a relationship.
 
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+### What Happens If You Don't Have An Agent?
+If you’re selling a house yourself, all of the REALTOR® duties mentioned earlier become your responsibility. You’re in charge of listing your home, marketing it, setting up showings and open houses, providing necessary paperwork, negotiating price and working with the other party’s real estate agent.

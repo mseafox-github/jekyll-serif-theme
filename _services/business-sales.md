@@ -4,7 +4,7 @@ date: 2019-01-28T15:15:26+10:00
 weight: 2
 ---
 
-**BUYER** looking to purchase property and let someone else do all the work from A to Z at no cost to you. A licensed professional who represents your interests and becomes a fiduciary to you, the buyer, in all aspects of the transaction.
+**BUYER** looking to purchase property and letting someone else do all the work from A to Z at no cost to you. A licensed professional who represents your interests and becomes a fiduciary to you, the buyer, in all aspects of the transaction.
 
 ### How can we help?
 
@@ -29,3 +29,21 @@ Real estate agents are typically compensated by commission, which is a percentag
 - Hiring a buyer's agent won't cost you a dime. Buyer's agent don't get paid by the buyer. They get paid by the seller. Typically, the buyer's agent and the seller's agent will split the commission on a home sale.
 - Buyer's agent will advise you on what to offer.
 - Buyer's agent can also advise you on financing and even help you find a lender.
+- Walk the client through any necessary paperwork.
+- Communicate with the client and other parties involved.
+- Provide information on the home inspection process.
+- Continue to support the client through the closing process.
+- One thing to keep in mind is that all real estate agents should be:
+  - Familiar with the local housing market, including pricing.
+  - Knowledgable on local and state real estate laws.
+  - Understanding of their clients' needs.
+
+### What Role Do Agents Play At Closing?
+Real estate agents also play a role during the closing period. Throughout the process, agents communicate between their client and the other party. Communication continues the entire time their clients are closing on a house. They may suggest a final walkthrough of the home close to the closing date. This allows you to check for any damage that has occurred since the initial contract.
+
+Real estate agents also look over every document, ensuring accuracy and that all terms and conditions have been met before the home deed is transferred. Mistakes happen, and it’s an agent’s job to find and correct them before everything is finalized.
+
+Agents also represent you at any meetings or contract signings. Several different parties can be involved in the closing process, depending on which state you’re in, including real estate attorneys, a title or escrow agent, a mortgage lender, sellers and buyers, and real estate agents. Agents represent their clients’ best interest not only until the sale is final, but also work to maintain a relationship.
+
+### What Happens If You Don't Have An Agent?
+If you’re buying a house yourself, all of the REALTOR® duties mentioned earlier become your responsibility. You’ll submit bids, negotiate pricing, line up inspections and handle all of the legal tasks associated with buying a home. It’s a lot to oversee, especially if you don’t have experience or knowledge of real estate transactions. It’s not impossible to represent yourself, but it’s a considerable time and energy commitment.
