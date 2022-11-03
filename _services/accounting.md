@@ -1,84 +1,62 @@
 ---
-title: "Accounting"
+title: "Auction/Option"
 date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+This strategy involes getting a property under contract subject-to the existing financing, and then creating a new loan that wraps around the existing underlying loan.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+**This is the least-worst case scenario.**
 
-# Objectives
+# 6 Phases of Foreclosure
 
-Financial accounting and financial reporting are often used as synonyms.
+## Phase 1: Payment Default
+Payment default occurs when a borrower has missed at least one mortgage payment—although the technical definition can vary by lender. After missing the first payment, the lender will reach out via a letter or telephone.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+Typically, mortgage payments are due on the first day of each month, and many lenders offer a grace period until the 15th of the month. After that, the lender may charge a late payment fee and send the missed payment notice.
 
-## Relevance
+After the second month of missed payments, the lender will likely follow up via telephone. However, at this point, the lender may be still willing to work with the borrower to make arrangements for catching up on payments, which may include making just one payment to prevent falling further behind.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+Once a borrower goes three months without making a payment, the lender generally sends a demand letter (or notice to accelerate) stating the amount in delinquency and that the borrower has 30 days to bring the mortgage current.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+A mortgage in default can have three outcomes—return to good standing, be modified, or the property is repossessed or sold via foreclosure or voluntary surrender.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+## Phase 2: Notice of Default
+A notice of default (NOD) is sent after the fourth month of missed payments (90 days past due). This public notice gives the borrower 30 days to remedy past due payments before formally starting the foreclosure process.
 
-## Faithful Representation
+Most lenders will not send a notice of default until the borrower is 90 days past due (three consecutive missed payments). Thus, many times a borrower can fall behind a month or two without facing foreclosure.
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+> Important Facts:
+- Generally, federal law prohibits a lender from starting foreclosure until the borrower is more than 120 days past due.
 
-## Enhancing Qualitative Characteristics
+## Phase 3: Notice of Trustee’s Sale
+Depending on the state, the process for initiating foreclosure is different. In some states, nonjudicial foreclosures can be done that only requires filing paperwork with the necessary court to start the process. With this, the foreclosure e process can move rather quickly. Other states have judicial foreclosures, which require court approval for each step—meaning the process takes a bit longer.
 
-### Verifiability
+Once forms are filed with the court or necessary approval is met, the lender's attorney or foreclosure trustee will schedule a sale of the property. A notice of trustee's sale (also known as a notice of sale) is then recorded in the county where the property is located—stating the specific time and location for the sale, as well as the minimum opening bid for the property.
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+The lender must also generally advertise the property (newspaper ads, signs, etc.) in the weeks before the auction indicating that the property will be available at public auction.
 
-### Comparability
+The time from the notice of demand to the auction date varies by state, but can be as quick as 2-3 months. Up until the date of the auction the borrower can still make payment arrangements or pay the amount due, including attorney fees incurred by the lender to start the process.
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+## Phase 4: Trustee’s Sale
+The property is now placed for public auction and will be awarded to the highest bidder who meets all of the requirements. The lender (or firm representing the lender) will calculate an opening bid based on the value of the outstanding loan and any liens, unpaid taxes, and costs associated with the sale.
 
-### Understandability
+> Important Facts:
+- When a foreclosed property is purchased, it is up to the buyer to say how long the previous owners may stay in their former home.
+Once the highest bidder has been confirmed and the sale is completed, a trustee’s deed upon sale will be provided to the winning bidder. The property is then owned by the purchaser, who is entitled to immediate possession.
 
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+## Phase 5: Real Estate Owned (REO)
+The lender will set a minimum bid, which takes into account the appraised value of the property, the remaining amount due on the mortgage, any other liens, and attorney fees. If the property is not sold during the public auction, the lender will become the owner and attempt to sell the property through a broker or with the assistance of a real estate-owned (REO) asset manager.
 
----
+> Important Facts:
+- These properties are often referred to as “bank-owned,” and the lender may remove some of the liens and other expenses in an attempt to make the property more attractive.
 
-## Statement of cash flows
+## Phase 6: Eviction
+As soon as the auction ends and a new owner is named—either the auction winner or the bank if the property is not sold—the borrowers are issued an order to evacuate if they are still living in the property. This eviction notice demands that any persons living in the house vacate the premises immediately.
 
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+Several days may be provided to allow the occupants sufficient time to leave and remove any personal belongings. Then, typically, the local sheriff or law enforcement will visit the property and remove them and impound any remaining belongings.
 
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+> Important Facts:
+- If you are facing foreclosure, or have lost your home through foreclosure, you might still owe your mortgage lender money after the sale. This happens if the foreclosure sale price is less than the amount remaining on your mortgage - it's called a "deficiency."
+- Deficiencies play a role in short sales too. In most states, you are on the hook for a deficiency after a short sale. But there are ways you can avoid or handle a deficiency.
+- And for foreclosures, short sales, and deeds in lieu of foreclosure, you might owe the IRS some money if the lender forgives the deficiency
