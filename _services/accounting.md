@@ -6,12 +6,9 @@ weight: 1
 
 This strategy involves getting a property under contract with a long option period (typically 60-90 days) and then auctioning or otherwise marketing the property to potential buyers.
 
-**This is the least-worst case scenario.**
-
 ### Who is this for?
 
-**Seller**
- The property is not a high prospect for traditional retail buyers, typically from the MLS (Multiple Listing Service). Meaning it has liens, needs repair, and/or for any number of reasons including, but not limited to pre-foreclosure or emergencies. FSBO (For Sale By Owner) may be a better alternative.
+For seller who fit this scenario, where the property is not a high prospect for traditional retail buyers, typically from the MLS (Multiple Listing Service). Meaning it has liens, needs repair, and/or for any number of reasons including, but not limited to pre-foreclosure or emergencies. The sale is not straightforward and therefore does not fit the traditional sale framework. And you still want the best price and fast.
 
 ### How can we help?
 We are members of the largest real estate network in North America. We will strive to get you the best pricing and as quickly as possible.
