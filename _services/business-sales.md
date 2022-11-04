@@ -25,7 +25,7 @@ Real estate agents can be both listing agents and buyer’s agents, but typicall
 
 Real estate agents are typically compensated by commission, which is a percentage of a property’s purchase price, otherwise known as REALTOR® fees.
 
-> Important Facts:
+> Important:
 - Hiring a buyer's agent won't cost you a dime. Buyer's agent don't get paid by the buyer. They get paid by the seller. Typically, the buyer's agent and the seller's agent will split the commission on a home sale.
 - Buyer's agent will advise you on what to offer.
 - Buyer's agent can also advise you on financing and even help you find a lender.

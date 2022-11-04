@@ -1,87 +1,33 @@
 ---
-title: "Insurance"
+title: "Short Sale"
 date: 2019-05-18T12:33:46+10:00
 weight: 7
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+**SELLER** with financial difficulties. Selling the property for less than what is owe on the mortgage. Financially distressed homeowner needs to sell the property before the lender seizes it in a foreclosure.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+All of the proceeds of a short sale go to the lender. The lender then has two options—to forgive the remaining balance or to pursue a deficiency judgment that requires the former homeowner to pay the lender all or part of the difference. In some states, this difference in price must be forgiven.
 
-# Objectives
+## Foreclosure vs Short Sale
+A short sale or foreclosure are two possible outcomes for homeowners who are behind on their mortgage payments, own a home that is underwater, or both. In either case, the owner is forced to part with the home, but the timeline and consequences are different.
 
-Financial accounting and financial reporting are often used as synonyms.
+### How A Foreclosure Works
+In a foreclosure, the lender seizes the home after the borrower fails to make payments. Unlike a short sale, a foreclosure is initiated by the lender alone. Foreclosure is the last option for the lender.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+In such cases, the lender repossesses the home, hoping to eventually make good on its investment in the mortgage. Unlike in most short sales, many foreclosures take place after the homeowner abandons the home. If the occupants are still in the home, they are evicted by the lender.
 
-## Relevance
+Once the lender has access to the home, it orders an appraisal and puts it up for sale.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+Foreclosures normally take less time to complete because the lender wants to liquidate the asset quickly. Foreclosed homes may even be auctioned off at a public trustee sale.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+Depending on the circumstances, homeowners who experience foreclosure have to wait for two to seven years to purchase another home. A foreclosure is kept on a person’s credit report for seven years.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+### How A Short Sale Works
+A distressed homeowner generally gets to stay in the home during the short sale process.
 
-## Faithful Representation
+A homeowner who has gone through a short sale may, with certain restrictions, be eligible to purchase another home immediately.
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+While a foreclosure essentially lets you walk away from your home—albeit with grave consequences for your financial future, such as having to declare bankruptcy and destroying your credit. Completing a short sale is labor-intensive. However, the payoff for the extra work involved in a short sale may be worth it.
 
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+> Important:
+- Less drastic alternatives to a short sale include loan modification or the use of private mortgage insurance.

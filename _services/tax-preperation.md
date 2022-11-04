@@ -23,7 +23,7 @@ Real estate agents can be both listing agents and buyer’s agents, but typicall
 
 Real estate agents are typically compensated by commission, which is a percentage of a property’s purchase price, otherwise known as REALTOR® fees.
 
-> Important Facts:
+> Important:
 - Seller's agent will advise you on the listing price.
 - Walk the client through any necessary paperwork.
 - Communicate with the client and other parties involved.
