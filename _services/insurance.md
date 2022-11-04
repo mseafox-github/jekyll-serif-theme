@@ -10,15 +10,15 @@ All of the proceeds of a short sale go to the lender. The lender then has two op
 
 ### How can we help?
 > Our specialties:
-- Foreclosure avoidance.
-- Selling your property without realtor commissions.
-- Debt removal or renegotiation.
-- Solving title issues.
-- Relocation assistance.
-- Houses in major disrepair.
 - Clearing up judgments or outside liens.
 - Credit repair.
+- Debt removal or renegotiation.
 - Environmental or structural problems.
+- Foreclosure avoidance.
+- Houses in major disrepair.
+- Selling your property without realtor commissions.
+- Solving title issues.
+- Relocation assistance.
 
 ### How does this work?
 > A seller's short sale package will consist of:
@@ -32,7 +32,7 @@ All of the proceeds of a short sale go to the lender. The lender then has two op
 - Two months of bank statements.
 - A comparative market analysis or list of recent comparable sales in the area.
 
-### Why Work With Us?
+### Why work with us?
 Working with us means not only a smooth transaction, but it also could mean thousands upon thousands of dollars in savings as compared to selling a home through traditional means. 
 
 When you work with us, you can rest assured knowing that whatever situation you are in, we’ve got the solution. We take pride in our reputation for working one-on-one with each client to achieve a WIN-WIN situation.
@@ -44,7 +44,7 @@ We provide many templates and forms. We simply need to fill out your information
 ## Foreclosure vs Short Sale
 A short sale or foreclosure are two possible outcomes for homeowners who are behind on their mortgage payments, own a home that is underwater, or both. In either case, the owner is forced to part with the home, but the timeline and consequences are different.
 
-### How A Foreclosure Works
+### How a foreclosure works
 In a foreclosure, the lender seizes the home after the borrower fails to make payments. Unlike a short sale, a foreclosure is initiated by the lender alone. Foreclosure is the last option for the lender.
 
 In such cases, the lender repossesses the home, hoping to eventually make good on its investment in the mortgage. Unlike in most short sales, many foreclosures take place after the homeowner abandons the home. If the occupants are still in the home, they are evicted by the lender.
@@ -55,7 +55,7 @@ Foreclosures normally take less time to complete because the lender wants to liq
 
 Depending on the circumstances, homeowners who experience foreclosure have to wait for two to seven years to purchase another home. A foreclosure is kept on a person’s credit report for seven years.
 
-### How A Short Sale Works
+### How a short sale works
 A distressed homeowner generally gets to stay in the home during the short sale process.
 
 A homeowner who has gone through a short sale may, with certain restrictions, be eligible to purchase another home immediately.
