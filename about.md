@@ -9,10 +9,6 @@ REAITeam is a professional, full service real estate solutions firm that buys an
 
 Founded in 2019 by Eddie Min & Tina Wu, REAITeam is excited to be part of the area’s renaissance and we aspire to continue contributing to the economic rejuvenation of Texas and its neighborhoods.
 
-
-
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
-
 # Who Are We?
 
 Overall Investment Approach

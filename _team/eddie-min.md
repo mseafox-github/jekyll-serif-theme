@@ -8,6 +8,8 @@ promoted: true
 weight: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+### Real Estate Professional Experience
+Eddie Min has over 8 years of professional experience in the real estate investment and lending industry. He is the founder and principal in several real estate investment companies. Eddie has experience in many facets of real estate investment including marketing, sourcing, underwriting, appraisal, negotiations, raising money, investor relations, transaction coordination, construction management, disposition coordination, and business management.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Education
+B.S. in Computer Science from the University of Houston, 2014.
