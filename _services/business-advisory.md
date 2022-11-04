@@ -34,3 +34,8 @@ Keep in mind that those who are renting a home are able to learn a great deal ab
 Property goes under lease (10-30 year lease) with an understanding that at the end of the lease period, the tenant will receive the deed to the property from the seller.
 
 ### Why work with us?
+Working with us means not only a smooth transaction, but it also could mean thousands upon thousands of dollars in savings as compared to traditional means. 
+
+When you work with us, you can rest assured knowing that whatever situation you are in, we’ve got the solution. We take pride in our reputation for working one-on-one with each client to achieve a WIN-WIN situation.
+
+We know that we truly do provide unique alternatives. It doesn’t take long to see why you should work with the REAITeam before you’ll be ready to figure out how. 

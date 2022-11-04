@@ -35,12 +35,12 @@ Our core business lies within our systems, education and knowledge of the real e
 ### We Follow A Strict Due Diligence Process
 
 We have a systematic and disciplined approach when purchasing investment properties, putting each potential investment through a strict due diligence process. This rigorous set of criteria includes, but is not limited to, the following:
-- Comparable property analysis and examination by an certified, independent appraiser
-- An economic study of the neighborhood, city planning and development
-- Demographics of area, marketability, and growth potential
-- Statistics on the crime rate
-- Public transportation and schools
-- Overall condition of the property, including heating and air, plumbing, electrical, roof and structural condition
+- Comparable property analysis and examination by an certified, independent appraiser.
+- An economic study of the neighborhood, city planning and development.
+- Demographics of area, marketability, and growth potential.
+- Statistics on the crime rate.
+- Public transportation and schools.
+- Overall condition of the property, including heating and air, plumbing, electrical, roof and structural condition.
 
 ## What's Our Competitive Advantage?
 
@@ -56,11 +56,11 @@ Our renovation process is also down to a science with handpicked and proven cons
 
 ### Advantages to Working With Us
 
-- We have the business systems and knowledge to purchase properties QUICKLY and with CASH
-- We create value by finding ugly, vacant homes and putting them back into use after renovation
-- We have a creative marketing system to find and purchase properties before they’re ever listed
-- We pay wholesale prices to all contractors and typically get bulk discounts on all materials
-- We find our own buyers quickly, allowing us to secure a strong sales price and save on sales commissions  
+- We have the business systems and knowledge to purchase properties QUICKLY and with CASH.
+- We create value by finding ugly, vacant homes and putting them back into use after renovation.
+- We have a creative marketing system to find and purchase properties before they’re ever listed.
+- We pay wholesale prices to all contractors and typically get bulk discounts on all materials.
+- We find our own buyers quickly, allowing us to secure a strong sales price and save on sales commissions.
 
 ## Investment Buying Criteria
 
@@ -74,9 +74,9 @@ Not every opportunity is a “good deal”, and we have built our company on a s
 
 ### Types of Properties We Target
 
-- Distressed properties in significant need of repairs
-- Properties where sellers need to sell quickly
-- Properties owned free and clear
+- Distressed properties in significant need of repairs.
+- Properties where sellers need to sell quickly.
+- Properties owned free and clear.
 
 ## How Do We Purchase Homes So Far Below Market Value?
 

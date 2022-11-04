@@ -64,6 +64,6 @@ Working with us means not only a smooth transaction, but it also could mean thou
 
 When you work with us, you can rest assured knowing that whatever situation you are in, we’ve got the solution. We take pride in our reputation for working one-on-one with each client to achieve a WIN-WIN situation.
 
-Most homeowners have no idea what options are available to them beyond listing a house with a Realtor or trying to sell the house on their own and just hoping for the best. We know that we truly do provide unique alternatives. We offer three outstanding options for a homeowner looking to sell a property. It doesn’t take long to see why you should work with the REAITeam before you’ll be ready to figure out how. 
+Most homeowners have no idea what options are available to them beyond listing a house with a Realtor or trying to sell the house on their own and just hoping for the best. We know that we truly do provide unique alternatives. It doesn’t take long to see why you should work with the REAITeam before you’ll be ready to figure out how. 
 
 We provide many templates and forms. We simply need to fill out your information to complete the rest along with your signature.
